@@ -1,0 +1,39 @@
+[submodule "echo-bell"]
+	path = echo-bell
+	url = https://github.com/emacsmirror/echo-bell
+[submodule "thingatpt+"]
+	path = thingatpt+
+	url = https://github.com/emacsmirror/thingatpt-plus
+[submodule "pp+"]
+	path = pp+
+	url = https://github.com/emacsmirror/pp-plus
+[submodule "mb-depth+"]
+	path = mb-depth+
+	url = https://github.com/emacsmirror/mb-depth-plus
+[submodule "info+"]
+	path = info+
+	url = https://github.com/emacsmirror/info-plus
+[submodule "icomplete+"]
+	path = icomplete+
+	url = https://github.com/emacsmirror/icomplete-plus
+[submodule "icicles"]
+	path = icicles
+	url = https://github.com/emacsmirror/icicles
+[submodule "frame-cmds"]
+	path = frame-cmds
+	url = https://github.com/emacsmirror/frame-cmds
+[submodule "doremi-mac"]
+	path = doremi-mac
+	url = https://github.com/emacsmirror/doremi-mac
+[submodule "doremi-frm"]
+	path = doremi-frm
+	url = https://github.com/emacsmirror/doremi-frm
+[submodule "doremi-cmd"]
+	path = doremi-cmd
+	url = https://github.com/emacsmirror/doremi-cmd
+[submodule "dired+"]
+	path = dired+
+	url = https://github.com/emacsmirror/dired-plus
+[submodule "bookmark+"]
+	path = bookmark+
+	url = https://github.com/emacsmirror/bookmark-plus
