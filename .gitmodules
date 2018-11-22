@@ -37,3 +37,6 @@
 [submodule "bookmark+"]
 	path = bookmark+
 	url = https://github.com/emacsmirror/bookmark-plus
+[submodule "hl-line-plus"]
+	path = hl-line-plus
+	url = https://github.com/emacsmirror/hl-line-plus.git
