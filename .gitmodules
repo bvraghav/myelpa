@@ -46,3 +46,6 @@
 [submodule "vline"]
 	path = vline
 	url = https://github.com/emacsmirror/vline.git
+[submodule "caffe-mode"]
+	path = caffe-mode
+	url = https://github.com/reggies/caffe-mode.git
