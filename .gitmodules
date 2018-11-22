@@ -40,3 +40,6 @@
 [submodule "hl-line-plus"]
 	path = hl-line-plus
 	url = https://github.com/emacsmirror/hl-line-plus.git
+[submodule "col-highlight"]
+	path = col-highlight
+	url = https://github.com/emacsmirror/col-highlight.git
