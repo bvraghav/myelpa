@@ -49,3 +49,6 @@
 [submodule "caffe-mode"]
 	path = caffe-mode
 	url = https://github.com/reggies/caffe-mode.git
+[submodule "frame-fns"]
+	path = frame-fns
+	url = https://github.com/emacsmirror/frame-fns.git
