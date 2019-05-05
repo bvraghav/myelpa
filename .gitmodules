@@ -52,3 +52,6 @@
 [submodule "frame-fns"]
 	path = frame-fns
 	url = https://github.com/emacsmirror/frame-fns.git
+[submodule "apropos-fn-var"]
+	path = apropos-fn-var
+	url = https://github.com/emacsmirror/apropos-fn-var
