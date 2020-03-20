@@ -55,3 +55,6 @@
 [submodule "apropos-fn-var"]
 	path = apropos-fn-var
 	url = https://github.com/emacsmirror/apropos-fn-var
+[submodule "crosshairs"]
+	path = crosshairs
+	url = github.com:emacsmirror/crosshairs
