@@ -58,3 +58,7 @@
 [submodule "crosshairs"]
 	path = crosshairs
 	url = gh:emacsmirror/crosshairs.git
+[submodule "treesit-fold"]
+	path = treesit-fold
+	url = gh:emacs-tree-sitter/treesit-fold.git
+	branch = master
