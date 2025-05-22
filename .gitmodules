@@ -1,60 +1,60 @@
 [submodule "echo-bell"]
 	path = echo-bell
-	url = https://github.com/emacsmirror/echo-bell
+	url = gh:emacsmirror/echo-bell.git
 [submodule "thingatpt+"]
 	path = thingatpt+
-	url = https://github.com/emacsmirror/thingatpt-plus
+	url = gh:emacsmirror/thingatpt-plus.git
 [submodule "pp+"]
 	path = pp+
-	url = https://github.com/emacsmirror/pp-plus
+	url = gh:emacsmirror/pp-plus.git
 [submodule "mb-depth+"]
 	path = mb-depth+
-	url = https://github.com/emacsmirror/mb-depth-plus
+	url = gh:emacsmirror/mb-depth-plus.git
 [submodule "info+"]
 	path = info+
-	url = https://github.com/emacsmirror/info-plus
+	url = gh:emacsmirror/info-plus.git
 [submodule "icomplete+"]
 	path = icomplete+
-	url = https://github.com/emacsmirror/icomplete-plus
+	url = gh:emacsmirror/icomplete-plus.git
 [submodule "icicles"]
 	path = icicles
-	url = https://github.com/emacsmirror/icicles
+	url = gh:emacsmirror/icicles.git
 [submodule "frame-cmds"]
 	path = frame-cmds
-	url = https://github.com/emacsmirror/frame-cmds
+	url = gh:emacsmirror/frame-cmds.git
 [submodule "doremi-mac"]
 	path = doremi-mac
-	url = https://github.com/emacsmirror/doremi-mac
+	url = gh:emacsmirror/doremi-mac.git
 [submodule "doremi-frm"]
 	path = doremi-frm
-	url = https://github.com/emacsmirror/doremi-frm
+	url = gh:emacsmirror/doremi-frm.git
 [submodule "doremi-cmd"]
 	path = doremi-cmd
-	url = https://github.com/emacsmirror/doremi-cmd
+	url = gh:emacsmirror/doremi-cmd.git
 [submodule "dired+"]
 	path = dired+
-	url = https://github.com/emacsmirror/dired-plus
+	url = gh:emacsmirror/dired-plus.git
 [submodule "bookmark+"]
 	path = bookmark+
-	url = https://github.com/emacsmirror/bookmark-plus
+	url = gh:emacsmirror/bookmark-plus.git
 [submodule "hl-line-plus"]
 	path = hl-line-plus
-	url = https://github.com/emacsmirror/hl-line-plus.git
+	url = gh:emacsmirror/hl-line-plus.git
 [submodule "col-highlight"]
 	path = col-highlight
-	url = https://github.com/emacsmirror/col-highlight.git
+	url = gh:emacsmirror/col-highlight.git
 [submodule "vline"]
 	path = vline
-	url = https://github.com/emacsmirror/vline.git
+	url = gh:emacsmirror/vline.git
 [submodule "caffe-mode"]
 	path = caffe-mode
-	url = https://github.com/reggies/caffe-mode.git
+	url = gh:reggies/caffe-mode.git
 [submodule "frame-fns"]
 	path = frame-fns
-	url = https://github.com/emacsmirror/frame-fns.git
+	url = gh:emacsmirror/frame-fns.git
 [submodule "apropos-fn-var"]
 	path = apropos-fn-var
-	url = https://github.com/emacsmirror/apropos-fn-var
+	url = gh:emacsmirror/apropos-fn-var.git
 [submodule "crosshairs"]
 	path = crosshairs
 	url = gh:emacsmirror/crosshairs.git
